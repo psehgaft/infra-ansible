@@ -20,3 +20,8 @@ This includes tasks like the following (but not limited to) automated:
 - user management with [IdM](playbooks/provision-idm-server) and local users + IdM/IPA integrated hosts
 - RHEL [subscription](roles/rhsm) management
 - 3rd party tooling, such as [Atlassian](roles/identity-management) SaaS suite
+
+
+## Developing Advanced Automation with Red Hat Ansible Automation Platform
+autocmd FileType yaml setlocal et ts=2 ai sw=2 nu sts=0
+autocmd FileType yaml setlocal et ts=2 ai sw=2 sts=0
